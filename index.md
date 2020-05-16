@@ -8,11 +8,15 @@ The implementation of the CLF-CBF-QP controller was written in MATLAB, tested on
 <img src="media/code.png" style="width: 60%; display: block; margin: auto;" />
 
 ## Videos of Results
-Here we have a video of the CLF-CBF-QP being run on the actual Robatarium testbed.
+
+Here we have a video of the Barrier Certificate Algorithm being run on the actual Robatarium testbed.
 <video width="640" height="480" controls>
   <source src="media/robotarium_video.mp4" type="video/mp4">
 </video>
-This confirms 
+Here we have a video of the CLF-CBF-QP algorithm being tested for tracking. 
+<video width="640" height="480" controls>
+  <source src="media/tracking.mp4" type="video/mp4">
+</video>
 
 ## Team
 #### Gyanendra Tripathi 
