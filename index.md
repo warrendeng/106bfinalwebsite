@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Project Overview
 
 You can use the [editor on GitHub](https://github.com/warrendeng/106bfinalwebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
