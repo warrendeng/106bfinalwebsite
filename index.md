@@ -1,10 +1,10 @@
-# EECS 206b Final Project Website
+# EECS 206b Final Project
 
 ## Project Overview
-In this project we try to accomplish two goals. First, we survey texts relating to Control Lypanouv Functions and Control Barrier Functions in order to summarize this newly developed field. Second, we try to implement a CLF-CBF-QP Controller onto the Robatarium testbed using Control Barrier Functions for adaptive speed regulation and lane keeping. 
+In this project we try to accomplish two goals. First, we survey texts relating to Control Lypanouv Functions and Control Barrier Functions in order to summarize this newly developed field. Second, we try to implement a CLF-CBF-QP Controller onto the Robatarium testbed using Control Barrier Functions for adaptive speed regulation and lane keeping. This website is used to demonstrate the CLF-CBF-QP Controller's implementation and simulation with actual robots. 
 
 ## Implementation
-The implementation of the CLF-CBF-QP controller was done in MATLAB.
+The implementation of the CLF-CBF-QP controller was written in MATLAB, tested on the simulator, and then tested on the actual testbed. It uses 
 <img src="media/code.png" style="width: 60%; display: block; margin: auto;" />
 
 ## Videos of Results
