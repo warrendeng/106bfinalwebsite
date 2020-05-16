@@ -10,4 +10,6 @@ Here we have a video of the CLF-CBF-QP being run on the actual Robatarium testbe
 <img src="videos/stages.png" style="width: 60%; display: block; margin: auto;" />
 This confirms 
 
-
+## Team
+#### Gyanendra Tripathi 
+Gyanendra is a graduate student of Public Policy (GSPP) with over 2 decades of experience in implementation and formulation of public policies in India. He has successfully completed EE 206A in last fall and in this semester besides pursuing EE 206B he is also learning 'Introduction to Machine Learning CS-289A'. He did BE in Electrical Engineering from IIT Roorkee(1996) and MTech in Power Electronics from IIT Kanpur(1998) before undertaking his career in civil service of India.
