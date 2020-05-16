@@ -9,7 +9,7 @@ The implementation of the CLF-CBF-QP controller was done in MATLAB.
 
 ## Videos of Results
 Here we have a video of the CLF-CBF-QP being run on the actual Robatarium testbed.
-<img src="videos/stages.png" style="width: 60%; display: block; margin: auto;" />
+<img src="media/robotarium_video.mp4" style="width: 60%; display: block; margin: auto;" />
 This confirms 
 
 ## Team
