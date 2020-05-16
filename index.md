@@ -3,7 +3,7 @@ In this project we try to accomplish two goals. First, we survey texts relating 
 
 ## Implementation
 The implementation of the CLF-CBF-QP controller was done in MATLAB.
-<img src="videos/IMAGE.png" style="width: 60%; display: block; margin: auto;" />
+<img src="media/code.png" style="width: 60%; display: block; margin: auto;" />
 
 ## Videos of Results
 Here we have a video of the CLF-CBF-QP being run on the actual Robatarium testbed.
