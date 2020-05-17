@@ -4,6 +4,9 @@
 In this project we try to accomplish two goals - First, we survey the literature relating to the Non linear contro theory using Control Lypanouv Functions and Control Barrier Functions in order to summarize this newly emerging field. Second, we try to implement a few different controllers onto the Robatarium testbed for adaptive speed regulation and lane keeping. We ran two main simulations. The first uses Barrier Certificates and the second uses the properties of Control Lyapunov Functions and Control Brrier Functions for simultaneous achievement of twin objectives of performance and safety guarantees.
 We designed a way point controller for tracking a prespecified trajectory with a fixed distance metric between leader and follower cars. After implementing this project on the Robotarium Test Bed we designed the more involved controller which uses a quadratic program for mediating the conflicting requirements of performance, stabilty and safety guarantees.
 This framework is referred to as CLF-CBF-QP.
+<a href="https://github.com/warrendeng/206b-Final-Proj/tree/master/code">
+ <img src="media/Robotarium.PNG" style="width: 60%; display: block; margin: auto;" />
+</a>
 
 ## Implementation
 The implementation of the CLF-CBF-QP controller was written in MATLAB, tested on the Robotarium simulator, and then tested on the actual testbed. 
