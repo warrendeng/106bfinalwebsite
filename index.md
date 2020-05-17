@@ -9,7 +9,10 @@ This framework is referred to as CLF-CBF-QP.
 The implementation of the CLF-CBF-QP controller was written in MATLAB, tested on the Robotarium simulator, and then tested on the actual testbed. 
 
 The actual code is found in this Github Repo under Code.
-<img src="media/code.png" style="width: 60%; display: block; margin: auto;" />
+<a href="https://github.com/warrendeng/206b-Final-Proj/tree/master/code">
+ <img src="media/code.png" style="width: 60%; display: block; margin: auto;" />
+</a>
+
 
 ## Videos of Results
 
