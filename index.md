@@ -1,4 +1,4 @@
-# EECS 206b Final Project
+# Realizing  Simultaneous  Lane  Keeping  and  Adaptive  Speed  Regulation on  GRITBOTS  of  Robotarium
 
 ## Project Overview
 In this project we try to accomplish two goals - First, we survey the literature relating to the Non linear contro theory using Control Lypanouv Functions and Control Barrier Functions in order to summarize this newly emerging field. Second, we try to implement a few different controllers onto the Robatarium testbed for adaptive speed regulation and lane keeping. We ran two main simulations. The first uses Barrier Certificates and the second uses the properties of Control Lyapunov Functions and Control Brrier Functions for simultaneous achievement of twin objectives of performance and safety guarantees.
